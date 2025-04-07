@@ -1,6 +1,6 @@
 
 
-var pais = ["Holanda", "Inglatera" , "África do Sul" , "Chile" , "Argentina" , "Brasil" , "Uruguai" , "Colômbia" , "Canadá" ,"EUA" , "Peru" , "Angola" , "Montenegro" , "Egito" , "Haiti"] 
+var pais = ["Holanda", "Inglatera" , "África do Sul" , "Chile" , "Argentina" , "Brasil" , "Uruguai" , "Colômbia" , "Canadá" ,"EUA" , "Peru" , "Angola" , "Montenegro" , "Egito" , "Haiti" , "Guiana" ] 
 
 var paisEscolhido = parseInt(prompt("Digite um número de 0 a 15"))
 
